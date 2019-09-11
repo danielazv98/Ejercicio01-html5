@@ -1,0 +1,81 @@
+body{
+	background: url('images/onora.jpg') no-repeat center center fixed;
+	background-size: cover;
+	margin:0;
+	padding: 0;
+	color:darkslategray;
+	font-family: sans-serif;
+
+}
+#wrapper{
+	width: 90%;
+	height: auto;
+	margin : 0 auto;
+	padding: 12px;
+}
+#heading{
+ 	font-size: 50px;
+}
+h1{
+
+}
+#marcas{
+
+}
+#one{
+	
+	width: 28.8%;
+	height: auto;
+	margin: 12px;
+	padding: 12px;
+	display: inline-block;
+
+}
+
+#Two{
+	
+	width: 28.8%;
+	height: auto;
+	margin: 12px;
+	padding: 12px;
+	display: inline-block;
+
+}
+
+#Three{
+	
+	width: 28.8%;
+	height: auto;
+	margin: 12px;
+	padding: 12px;
+	display: inline-block;
+
+}
+#one #featured-image{
+	background: url('images/carla.jpg') center center ;
+	background-size: cover;
+	width: 200px;
+	height:200px;
+	margin: 0 auto;
+	border-radius: 200px;
+}
+#Two #featured-image{
+	background: url('images/juana.jpg') center center ;
+	background-size: cover;
+	width: 200px;
+	height:200px;
+	margin: 0 auto;
+	border-radius: 200px;
+}
+#Three #featured-image{
+	background: url('images/canasta.jpg') center center ;
+	background-size: cover;
+	width: 200px;
+	height:200px;
+	margin: 0 auto;
+	border-radius: 200px;
+}
+
+h2{
+
+}
